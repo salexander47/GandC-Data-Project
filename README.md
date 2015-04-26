@@ -1,3 +1,5 @@
+If you open this inside Github, click the "Raw" button for the intended format.
+
 <*> GandC-Data-Project
 <*>repository for the project in the getting and cleaning data class
 
