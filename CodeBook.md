@@ -1,3 +1,5 @@
+If you open this inside Github, click the "Raw" button for the intended format
+
 Code Book for the course project from Getting and Cleaning Data
 by Steven Alexander 4/26/2015
 
